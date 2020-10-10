@@ -1,5 +1,5 @@
 var factz = [
-    "you make me feel like i can do anything",
+    "xX_you make me feel like i can do anything_Xx",
     "wow wow wow",
     "you're super cute",
     "you're the top young home cook age 8-13 in the country",
